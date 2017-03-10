@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel='stylesheet' href='style.css'/>
+	<script src='script.js'></script>
+	<link href='https://fonts.googleapis.com/css?family=Bangers' rel='stylesheet' type='text/css'>
+</head>
+<body>
+    <div class="nav">
+        <div class="container">
+         <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+            <li><a href="#">About Us</a></li>
+         </ul>
+        </div>
+    </div>
+    
+    <div class="jumbotron">
+        <div class="container">
+            <h1>Francisco Osório</h1>
+            <h4>This is my very first website</h4>
+            <p>Building a code from scracth</p>
+        </div>
+    </div>
+    
+    <div class="content">
+        <div class="container">
+            <a href="http://memesvault.com/meme-faces-troll-gif/">
+                <img src="http://memesvault.com/wp-content/uploads/Meme-Faces-Troll-Gif-12.gif">
+            </a>
+        </div>
+    </div>
+
+</body>
+</html>
